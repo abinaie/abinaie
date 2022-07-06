@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abinaie.
+- 👋 Hi, I’m Amir @abinaie.
 - 👀 Welcome to my github page!
 - 📫 You can reach me at iamirbinaie@gmail.com
 
